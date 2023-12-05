@@ -3,7 +3,7 @@
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&labelColor=black)](https://www.linkedin.com/in/owen-r/) (click)
 
-[![Static Badge](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=ReadMe&labelColor=black)](https://github.com/owen-rote/resume/blob/main/GH%20Resume.pdf) (click)
+[![Static Badge](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=ReadMe&labelColor=black)](https://github.com/owen-rote/resume/blob/main/resume.pdf) (click)
 
 
 
