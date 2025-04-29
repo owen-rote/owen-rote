@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Owen</h1>
-<h3 align="center">A software engineer at Cal State Fullerton (Pursuing a B.S. in Computer Science)</h3>
-
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&labelColor=black)](https://www.linkedin.com/in/owen-r/) (click)
 
 <h3 align="left">📈 My Scripting/Programming Languages:</h3>
